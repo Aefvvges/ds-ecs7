@@ -1,0 +1,20 @@
+{
+  "Linea": {
+    "Id": 222,
+    "Codigo": "752",
+    "Demostracion": {
+      "Codigo": "1",
+      "Descripcion": "DNI"
+    },
+    "Tasa": {
+      "PlazoDesde": 0,
+      "PlazoHasta": 48,
+      "Tem": 4.7671,
+      "Tna": 58,
+      "ListTasaScore": null
+    },
+    "Tope": 250000
+  },
+  "ContieneError": false,
+  "Mensaje": null
+}
